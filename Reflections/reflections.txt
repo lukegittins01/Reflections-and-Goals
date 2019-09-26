@@ -1,0 +1,54 @@
+Reflections for Day 2,
+
+What went well,
+Moving forward with the command line mystery challenge
+
+What could improve on,
+GitHub push and pull
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Reflections for Day 3,
+
+What went well,
+Pulling and pushing from GitHub efficiently
+Working together to solve problems in the coding task - (pairing)
+
+What was difficult,
+Searching to find the right answer, sometimes it took more than one search to find what you are looking for
+Some times when trying to find an answer you found yourself going round in circles trying to solve it.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Reflections for Day 4,
+
+What went well,
+Understanding more about loops in ruby and how they work, especially while and until loops
+Understanding about pushing into an array in ruby
+Learned more in ruby especially looping and pushing into arrays.
+Remote pairing worked well in some cases as the other person was able to spot small errors like typos when the driver was coding – this helped speed up moving forward.
+
+What was difficult,
+Again searching to find the right answer sometimes felt like I was going round in circles trying to get it.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Reflections since day 1,
+I found the GitHub work difficult and pushing and pulling from a repository was challenging for me for the first 2 days.
+Syntax was a bigger issue than it is now for the ruby language on day 1
+I didn’t have much knowledge on looping in ruby than I do now
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+Reflections on Yesterday 25/09/2019,
+
+What went well,
+Breaking down problems into smaller parts and then putting it together at the end to make the final product
+Expanding knowledge in ruby I.e. loops and used arrays more in my second version of the Blackjack game.
+I'm now much more confident with pushing and pulling from GitHub to share and update code much more efficiently
+
+What was difficult,
+Getting my solution to fit the Rspec tests exactly. I had working solutions that fit the criteria but it was not in the exact way that Rspec wanted it so the tests failed.
+Sometimes going round in circles to find the answer to an error that occurred and leading into further problems even though it may have been a simple fix.
