@@ -1,0 +1,5 @@
+Goal for today 27/09/2019
+
+Pair programming - To make sure a swap is made in driving and navigating. Soemtimes i find that i loose track and end up keep drving or not relise and the other person keeps drivng
+
+Tecnical goal - Improve knowledge on rspec
