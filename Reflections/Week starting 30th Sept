@@ -8,5 +8,19 @@ Thought that learning the basics of how test driven development is approached wa
 Also that when you use test driven devlopment it is important that you make the test fail to ensure you have made the test correctly
 
 What i could improve on,
+
 As test driven development is still new i could work on creating more complicated tests
 Also, again sometimes it was diffcult to see if it was the programme or the test that was wrong at times
+
+
+----- Tuesday -----
+
+What went well,
+
+Learning the approach to test driven development in that it is important to break the programme in order to verfiy that your tests are correctly written
+Also the approach to writing a programme when given only instructions and writing your own tests around that was good because it allowed me to code the programme how i wanted to
+
+What i could imporve on,
+
+The syntax for rspec, as i noticed there were many times where what i had in rspec was just a letter or 1 piece of punctuation away from it being right.
+
