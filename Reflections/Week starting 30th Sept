@@ -11,6 +11,7 @@ What i could improve on,
 As test driven development is still new i could work on creating more complicated tests
 Also, again sometimes it was diffcult to see if it was the programme or the test that was wrong at times
 
+
 Reflection on Monday
 ----- Tuesday -----
 
@@ -23,3 +24,15 @@ What i could imporve on,
 
 The syntax for rspec, as i noticed there were many times where what i had in rspec was just a letter or 1 piece of punctuation away from it being right.
 
+
+Reflection on Tuesday
+----- Wednesday -----
+
+What went well,
+
+Completed the dice_app programme and enjoyed the idea of the scenarios being given and we have to mkae the test for them. 
+Also learned more of rspec syntax and the structure i should follow in order to get a test working.
+
+What i could improve on,
+
+Focusing the tests to test specific things to do with the programme as i found myself writing the test and some parts of the test could have been more specifc to what the programme is acctually doing
