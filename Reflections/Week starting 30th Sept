@@ -36,3 +36,16 @@ Also learned more of rspec syntax and the structure i should follow in order to 
 What i could improve on,
 
 Focusing the tests to test specific things to do with the programme as i found myself writing the test and some parts of the test could have been more specifc to what the programme is acctually doing
+
+
+Reflection on Wednesday
+----- Thursday -----
+
+What went well,
+
+Refreshed some of the knopwledge in the debugging workshop and found out the way of outputting certain parts to reveal more information
+Did some code wars challenges too so i refreshed my ruby programming up a bit more
+
+What i could improve on,
+
+When writing test driven programmes i need to make the tests first and then write the code around the tests as i seem to be writing it the other way round and then i end up basing the test from the code in the .rb file
