@@ -50,3 +50,15 @@ What i could improve on,
 
 When writing test driven programmes i need to make the tests first and then write the code around the tests as i seem to be writing it the other way round and then i end up basing the test from the code in the .rb file
 I also find that Boris Bikes has been on for slightly too long and would have preffered that another test driven development task was made.
+
+
+Reflection on Thursday
+----- Friday -----
+
+What went well,
+
+Progress on boris bikes went upto stage 20 and also the small challenge i set my self in the orning of self lead study went well and will continue with it as a small project to help support my ruby skills
+
+What i could improve on,
+
+Writing the tests before the code as i find myself trying to get the code to work before even writign the tests
