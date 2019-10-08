@@ -8,4 +8,15 @@ what i could improve on,
 - Don't overthink the task and take a step back if i am going down a wrong path
 
 
+Reflection on Monday
 ----- Tuesday -----
+
+What went well,
+- I made a good start with pair programming and made effective use of the driver, navigator strategy with my pair.
+- I think this made it much easier to spot errors and make progress much more swift in moving forward.
+
+What i could improve on,
+- I need to remember that for each test it is a completely seperate block of code to he other tests. As i find myself sometimes
+  not writing important lines of code in the test that may be written in another test. For example for a plane to takeoff it must
+  first be at the airport or have to land then take off. its the small important parts at the beginning that i need to make sure
+  i include to avoid getting errors.
