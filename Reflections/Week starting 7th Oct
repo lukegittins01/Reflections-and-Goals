@@ -20,3 +20,14 @@ What i could improve on,
   not writing important lines of code in the test that may be written in another test. For example for a plane to takeoff it must
   first be at the airport or have to land then take off. its the small important parts at the beginning that i need to make sure
   i include to avoid getting errors.
+
+Reflection on Tuesday,
+----- Wednesday -----
+
+What went well,
+- I enjoyed the domain model workshop in that i liked how we was told how to break down user stories based on nouns and verbs 
+  to make classes and methods
+
+What i could improve on,
+- I think that i could imporve on making sure that each class is in a seperate file to ensure consistensy within the programme.
+  I can do this by improving my airport challenge today, with the comments josh left on my git hub pull request.
