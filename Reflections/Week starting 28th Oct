@@ -1,0 +1,12 @@
+Reflection on last Friday
+----- Monday -----
+
+What went well,
+- i thought that the setup of my web application and database application went well in that i thought it went smoothly with 
+  very little errors on the way and if there was errors i was able to pick out where they were coming from.
+- i found the test database proved useful in practicing SQL commands on it without affecting the main database.
+  
+What i could improve on,
+- i thought that i could have improved on getting the programme to display the contents online instead of just getting it to 
+  pass with the rspec test. As i found that with my first scenario it doesent acctually add them onto the webpage it just
+  passes the rspec test and that is becuase i am testing it on a seperate test database.
