@@ -10,3 +10,17 @@ What i could improve on,
 - i thought that i could have improved on getting the programme to display the contents online instead of just getting it to 
   pass with the rspec test. As i found that with my first scenario it doesent acctually add them onto the webpage it just
   passes the rspec test and that is becuase i am testing it on a seperate test database.
+
+
+Reflection on Monday
+----- Tuesday -----
+
+What went well,
+- I thought that the pairing went well and that althought we only managed to complete 2 of the challenges we took our time
+  to understand what exactly was being written down and that i thought was much more useful than blazing through the 
+  challenges just to get them completed.
+- i also throught that re doing a programme that we did before in ruby, things like FizzBuzz it was a good way to compare
+  as to how exactly it differes from a lanaguage im already familiar with.
+  
+What i could improve on,
+- i thought that i could improve on the syntax for javascript but i think that will come as i get more practice.
