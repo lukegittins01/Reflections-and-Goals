@@ -37,3 +37,18 @@ What went well,
 What i could improve on,
 - I thought that i could have improved on the syntax for Java as it is still new i do make mistakes in how things are supposed
   to be layed out and what order different components go together as i find myself sometimes writing it how i would in ruby.
+  
+
+Reflection on Wednesday
+----- Thursday -----
+
+What went well,
+- I thought that the paiting session went well in that i gained more knowledge on how certain things are done and also
+  i used some of my self study time in the morning making an area to store jasmine files so that when i want to start 
+  a new test driven java project i can just import the jasmine files directly and not have to spend time setting up
+  jasmine from scratch.
+  
+What i could improve on,
+- i could improve on remembering exactly how tests work. There was times where i forgot that each test starts from 
+  cratch and i think it is improtant that i understand this moving forward with the tests. Althogh it is nothing major 
+  that i have to look into i need to just remember that tests are like a new rotation of the programme starting from scratch.
