@@ -24,3 +24,14 @@ What i could improve on,
 - I thought that i could have imporved on making sure i had done everything before commiting a chnage to the repo, there
   was 2 occasions where i had to commit a further chnage to the master for the same feture just because i forgot 1 vtl
   that i didnt add css too. So i think that going over each page before commiting is a good idea to do.
+
+Reflection on Tuesday 
+----- Wednesday -----
+
+What went well,
+- I thought that the amount of smaller features that i completed was good and tyhat i thought it contributed well as we now
+  have a working finihsed game. All that we want to do now is deploy it to heroku so that the leaderboard results can be saved.
+
+What i could improve on,
+- I thought that i could have improved on remembering when to use a . and a # when refering to css attributes as it took me a
+  while in some cases to realise that was the reason why they was not moving on the screen.
