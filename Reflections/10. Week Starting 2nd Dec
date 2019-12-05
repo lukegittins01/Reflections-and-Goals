@@ -35,3 +35,14 @@ What went well,
 What i could improve on,
 - I thought that i could have improved on remembering when to use a . and a # when refering to css attributes as it took me a
   while in some cases to realise that was the reason why they was not moving on the screen.
+
+Reflection on Wednesday
+----- Thursday -----
+
+What went well, 
+- I thought that as a group we did really well to complete the game and get it fully functioning all the cards we wanted to do
+  have been completed.
+
+What i could improve on,
+- I thought that i could have improved on taking into consideration of multiple people playing the game at once as when we 
+  deployed to heroku it would only register the once player and when someone else joins this means that they cant play
